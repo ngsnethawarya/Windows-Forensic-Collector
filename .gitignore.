@@ -1,0 +1,24 @@
+
+# Forensic evidence
+Evidence_*/
+*.csv
+*.evtx
+*.etl
+*.dmp
+*.mem
+*.pcap
+*.pcapng
+
+# Sensitive information
+*.log
+*.key
+*.pem
+*.pfx
+.env
+secrets/
+
+# Temporary files
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
